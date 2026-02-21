@@ -20,7 +20,7 @@ A simple and responsive web application to search for books by title using the [
 
 ## 🚀 Getting Started
 1. Clone the repository:
-git clone https://github.com/your-username/book-search.git
+git clone https://github.com/your-username/Book-Search.git
 2. Navigate to the project folder:
 cd book-search
 3. Open `index.html` in your browser:
