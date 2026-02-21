@@ -14,13 +14,13 @@ A simple and responsive web application to search for books by title using the [
 
 ## Demo
 
-![Book Search Demo](https://mhkn-2007.github.io/Book-Search/)
+💻[Book Search Demo](https://mhkn-2007.github.io/Book-Search/)
 
 ---
 
 ## 🚀 Getting Started
 1. Clone the repository:
-git clone https://github.com/your-username/Book-Search.git
+git clone https://github.com/mhkn-2007/Book-Search.git
 2. Navigate to the project folder:
 cd book-search
 3. Open `index.html` in your browser:
